@@ -1,0 +1,3 @@
+// Add verified business contact details before publishing.
+export const business={name:'Mahalaxmi Steel Centre',address:'372/1/C, nr. Hanumanji Mandir, Makarpura GIDC, Makarpura, Vadodara, Gujarat 390010',phone:'9426054581',whatsapp:'9426054581',mapsUrl:'https://maps.app.goo.gl/pay2HKwfh1WBmQ7X8',rating:'5.0',reviews:'2',ownerName:'Shop Owner'};
+export const categories=[['01','Office Furniture','Metal furniture options for offices and workspaces','WORKSPACE'],['02','Storage & Racks','Storage and shelving solutions for different spaces','STORAGE'],['03','Kitchen & Utility','Metal products for kitchen and utility areas','UTILITY'],['04','Custom Requirements','Discuss dimensions and made-to-order needs','CUSTOM']];   
